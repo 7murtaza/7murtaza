@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
 <p align="center">
-  <img src="[https://github.com/account](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-coding&psig=AOvVaw2DQp0UofwZlWhnC_yyn5Qa&ust=1703253442053000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOCOv9fXoIMDFQAAAAAdAAAAABAE)" alt="Your Name" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-coding&psig=AOvVaw2DQp0UofwZlWhnC_yyn5Qa&ust=1703253442053000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOCOv9fXoIMDFQAAAAAdAAAAABAE)" alt="Your Name" width="200"/>
 </p>
 
 <p align="center">
   🌱 Currently learning: Blockchain development, Solidity
+  <br/>
   📫 You can email me on **ghulammurtazakhan97@gmail.com**
 </p>
 
