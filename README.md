@@ -1,21 +1,33 @@
-<h1 align="center">Hi, I'm GHULAM MURTAZA KHAN</h1>
+<h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
-- 🌱 I’m currently learning **Blockchain development, solidity**
+<p align="center">
+  <img src="https://YOUR_IMAGE_LINK_HERE" alt="Your Name" width="200"/>
+</p>
 
-- 📫 You can email me on **ghulammurtazakhan97@gmail.com**
+<p align="center">
+  🌱 Currently learning: Blockchain development, Solidity
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ghulammurtazakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-m-8ba956284" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22294843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17932595" height="30" width="40" /></a>
+  <a href="YOUR_LINKEDIN_PROFILE_LINK" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="YOUR_STACKOVERFLOW_PROFILE_LINK" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="YOUR_OTHER_SOCIAL_LINK" target="blank">
+    <!-- Add other social icons here -->
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+  <!-- Add your preferred programming languages and tools with respective icons -->
+  <img src="ICON_LINK" alt="Language/Tool" width="40" height="40"/>
+  <!-- Add more icons as needed -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7murtaza&theme=dark" alt="murtaza khan" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Your Name" />
+</p>
