@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
 <p align="center">
-  <img src="https://YOUR_IMAGE_LINK_HERE" alt="Your Name" width="200"/>
+  <img src="https://github.com/account" alt="Your Name" width="200"/>
 </p>
 
 <p align="center">
