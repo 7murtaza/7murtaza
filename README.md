@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1703168018~exp=1703168618~hmac=1c2187e8bda29e8de8513f24c72f07c3269cd518944e1580c96593006295e705" alt="DEV" width="200"/>
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1703168018~exp=1703168618~hmac=1c2187e8bda29e8de8513f24c72f07c3269cd518944e1580c96593006295e705" alt="DEV" width="200" style="filter: invert(100%); />
 </p>
 
 <p align="center">
