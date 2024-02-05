@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
 <p align="center">
-  🌱 Software Engineer
+  👨🏻‍💻 Software Engineer
   <br/>
-  🌱 Blockchain Developer: Solidity, Solana, NFT, Dapps
+  ₿🔗 Blockchain Developer: Solidity, Solana, NFT, Dapps
   <br/>
-  📫 You can email me on ghulammurtazakhan97@gmail.com
+  📫 Email: ghulammurtazakhan97@gmail.com
 </p>
 
 
