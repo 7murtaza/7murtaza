@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Murtaza Khan</h1>
 
-<p align="center">
+<p>
   👨🏻‍💻 Software Engineer
   <br/>
   ₿🔗 Blockchain Developer: Solidity, Solana, NFT, Dapps
