@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Murtaza Khan</h1>
+<h1 align="center">Hi there, I'm Ghulam Murtaza Khan</h1>
 
 <p>
   👨🏻‍💻 Software Engineer
