@@ -3,6 +3,8 @@
 <p>
   👨🏻‍💻 Software Engineer
   <br/>
+  👨🏻‍💻 Web Developer
+  <br/>
   ₿🔗 Blockchain Developer: Solidity, Solana, NFT, Dapps
   <br/>
   📫 Email: ghulammurtazakhan97@gmail.com
